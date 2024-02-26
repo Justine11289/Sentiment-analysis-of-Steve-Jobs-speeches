@@ -1,0 +1,82 @@
+---
+title: "iPhone"
+author: " 黃子庭 蔡旻祐"
+date: "2021/6/12"
+output: html_document
+---
+
+### 安裝"wordcloud2","jiebaR","text mining"套件
+```{r}
+#install.packages("wordcloud2")
+#install.packages("jiebaR")
+#install.packages("tm")
+```
+
+### 初步處理文檔
+```{r}
+speech_file <- readLines("C:/Users/ju891/OneDrive/文件/R/期末/speech.txt") #一列一列讀入文字檔
+speech_file <- gsub(pattern = "\\W",replace= " ",speech_file)   #去掉標點符號
+speech_file <- gsub(pattern = "\\d",replace= " ",speech_file)   #去掉數字
+speech_file <- tolower(speech_file)   #將全部英文字母轉為小寫
+speech_file <- gsub(pattern = "\\b[A-z]\\b{1}",replace= " ",speech_file) #去掉單一字母的字詞
+
+library(jiebaR)
+clean <- worker() 
+speech_file1 <- clean[speech_file]   #利用jiebaR斷詞
+word_count1 <- table(speech_file1)   #計算各詞的數量
+
+library(wordcloud2)
+wordcloud2(word_count1,size=2,color="random-dark",rotateRatio=0) #使用wordcloud2製作文字雲
+```
+
+### 刪除沒有意義的詞語
+```{r}
+library(tm)
+speech_file2 <- removeWords(speech_file,stopwords()) #將常用的較無意義的字詞刪除
+
+library(jiebaR)
+speech_file3 <- clean[speech_file2]  #利用jiebaR斷詞
+word_count2 <- table(speech_file3)   #計算各詞的數量
+
+library(wordcloud2)
+wordcloud2(word_count2,size=2,color="random-dark",rotateRatio=0) #使用wordcloud2製作文字雲
+```
+
+### 安裝"syuzhet","tidytext"套件
+```{r}
+#install.packages("syuzhet")
+#install.packages("tidytext")
+```
+
+### 計算出詞語的情感值
+```{r}
+word_data2 <- data.frame(word_count2)  #建立處理好的文檔資料庫
+word_data3 <- word_data2$speech_file3  #處理文檔資料庫中的字詞資料
+
+library(syuzhet)
+library(tidytext)
+speech_sentiment <- get_sentiment(word_data3, method="syuzhet")  #利用syuzhet取得各詞的情感值
+```
+
+### 製作詞語的情感值圖表
+```{r}
+plot(speech_sentiment, type="l", main="Sentiment Analysis", xlab = "Quantity of Words", ylab= "Emotional Valence")
+```
+
+```{r}
+word_data4 <- data.frame(word_data3,speech_sentiment)
+```
+
+### 找出正面詞語
+```{r}
+positive <- word_data4[word_data4$speech_sentiment > 0,]
+library(wordcloud2)
+wordcloud2(positive,size=0.3,rotateRatio=0)  #使用wordcloud2製作文字雲
+```
+
+### 找出負面詞語
+```{r}
+negative <- word_data4[word_data4$speech_sentiment < 0,]
+library(wordcloud2)
+wordcloud2(negative,size=0.08,rotateRatio=0)  #使用wordcloud2製作文字雲
+```

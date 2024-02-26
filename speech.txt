@@ -1,0 +1,525 @@
+This is a day I have been looking forward to for two-and-a-half years.
+Every once in a while, a revolutionary product comes along that changes everything.
+And Apple has been - well, first of all, ones very fortunate if you get to work on just one of these in your career.
+Apple has been very fortunate. It has been able to introduce a few of these into the world.
+1984, introduced the Macintosh.
+It did not just change Apple.
+It changed the whole computer industry.
+In 2001, we introduced the first iPod, and it did not just change the way we all listen to music, it changed the entire music industry.
+Well, today, we are introducing three revolutionary products of this class.
+The first one is a widescreen iPod with touch controls.
+The second is a revolutionary mobile phone.
+And the third is a breakthrough Internet communications device.
+So, three things: a widescreen iPod with touch controls; a revolutionary mobile phone; and a breakthrough Internet communications device.
+An iPod, a phone, and an Internet communicator.
+An iPod, a phone are you getting it?
+These are not three separate devices, this is one device, and we are calling it iPhone.
+Today, Apple is going to reinvent the phone, and here it is.
+No, actually here it is, but we are going to leave it there for now.
+
+So, before we get into it, let me talk about a category of things.
+The most advanced phones are called smart phones, so they say.
+And they typically combine a phone plus some e-mail capability, plus they say it is the Internet.
+It is sort of the baby Internet, into one device, and they all have these little plastic keyboards on them.
+And the problem is that they are not so smart and they are not so easy to use, and so if you kind of make a Business School 101 graph of the smart axis and the easy-to-use axis, phones, regular cell phones are right there, they are not so smart, and they are not so easy to use.
+But smart phones are definitely a little smarter, but they actually are harder to use. They are really complicated.
+Just for the basic stuff people have a hard time figuring out how to use them.
+Well, we do not want to do either one of these things.
+What we want to do is make a leapfrog product that is way smarter than any mobile device has ever been, and super-easy to use.
+This is what iPhone is. OK?
+
+So, we are going to reinvent the phone.
+Now, we are going to start with a revolutionary user interface.
+It is the result of years of research and development, and of course, it is an interplay of hardware and software.
+Now, why do we need a revolutionary user interface.
+Here is four smart phone, right?
+Motorola Q, the BlackBerry, Palm Treo, Nokia E62 the usual suspects.
+And, what is wrong with their user interfaces?
+Well, the problem with them is really sort of in the bottom 40 there.
+It is this stuff right there.
+They all have these keyboards that are there whether or not you need them to be there.
+And they all have these control buttons that are fixed in plastic and are the same for every application.
+Well, every application wants a slightly different user interface, a slightly optimized set of buttons, just for it.
+And what happens if you think of a great idea six months from now?
+You cannot run around and add a button to these things.
+They are already shipped.
+So what do you do?
+It does not work because the buttons and the controls cannot change.
+They cannot change for each application, and they cannot change down the road if you think of another great idea you want to add to this product.
+
+Well, how do you solve this?
+Hmm. It turns out, we have solved it!
+We solved in computers 20 years ago.
+We solved it with a bit-mapped screen that could display anything we want.
+Put any user interface up.
+And a pointing device.
+We solved it with the mouse.
+We solved this problem.
+So how are we going to take this to a mobile device?
+What we are going to do is get rid of all these buttons and just make a giant screen.
+Now, how are we going to communicate this?
+We do not want to carry around a mouse, right?
+So what are we going to do?
+Oh, a stylus, right?
+We are going to use a stylus.
+No.
+Who wants a stylus.
+You have to get them and put them away, and you lose them.
+Yuck. Nobody wants a stylus.
+So let us not use a stylus.
+We are going to use the best pointing device in the world.
+We are going to use a pointing device that we are all born with born with ten of them.
+We are going to use our fingers.
+We are going to touch this with our fingers.
+And we have invented a new technology called multi-touch, which is phenomenal.
+It works like magic.
+You do not need a stylus.
+It is far more accurate than any touch display that has ever been shipped.
+It ignores unintended touches, it is super-smart.
+You can do multi-finger gestures on it.
+And boy, have we patented it.
+So we have been very lucky to have brought a few revolutionary user interfaces to the market in our time.
+First was the mouse.
+The second was the click wheel.
+And now, we are going to bring multi-touch to the market.
+And each of these revolutionary interfaces has made possible a revolutionary product the Mac, the iPod and now the iPhone.
+So, a revolutionary interface.
+We are going to build on top of that with software.
+Now, software on mobile phones is like baby software.
+It is not so powerful, and today we are going to show you a software breakthrough.
+Software that is at least five years ahead of what is on any other phone.
+Now how do we do this?
+Well, we start with a strong foundation.
+iPhone runs OSX.
+Now, why would we want to run such a sophisticated operating system on a mobile device?
+Well, because it is got everything we need.
+It is got multi-tasking.
+It is got the best networking.
+It already knows how to power manage.
+We have been doing this on mobile computers for years.
+It is got awesome security.
+And the right apps.
+It is got everything from Cocoa and the graphics and it is got core animation built in and it is got the audio and video that OSX is famous for.
+It is got all the stuff we want.
+And it is built right in to iPhone.
+And that has let us create desktop class applications and networking.
+Not the crippled stuff that you find on most phones.
+This is real, desktop-class applications.
+
+Third thing I want to talk about a little is design.
+We have designed something wonderful for your hand, just wonderful.
+This is what it looks like.
+It is got a three-and-a-half-inch screen on it.
+It is really big.
+And, it is the highest-resolution screen we have ever shipped.
+It is 160 pixels per inch.
+Highest we have ever shipped.
+It is gorgeous.
+And on the front, there is only one button down there.
+We call it the home button.
+Takes you home from wherever you are.
+And that is it. Let us take a look at the side.
+It is really thin.
+It is thinner than any smart phone out there, at 11.6 millimeters.
+Thinner than the Q, thinner than the BlackJack, thinner than all of them.
+It is really nice.
+And we have got some controls on the side, we have got a little switch for ring and silent, we have got a volume up and down control.
+Let us look at the back.
+On the back, biggest thing of note is we have got a two-megapixel camera built right in.
+The other side, we are back in the front.
+So let us take a look at the top now.
+We have got a headset jack.
+3.5 millimeter all your iPod headphones fit right in.
+We have got a place, a little tray for your SIM card, and we have got one switch for sleep and wake.
+Push it to go to sleep, push it to wake up.
+Let us take a look at the bottom.
+We have got a speaker, we have got a microphone, and we have got our 30-pin iPod connector.
+So that is the bottom.
+
+Now, we have also got some stuff you cannot see.
+We have got three really advanced sensors built into this phone.
+The first one is a proximity sensor.
+It senses when physical objects get close, so when you bring iPhone up to your ear, to take a phone call, it turns off the display, and it turns off the touch sensor, instantly.
+Well, why do you want to do that?
+Well, one to save battery, but two, so you do not get spurious inputs from your face into the touch screen.
+Just automatically turns them off, take it away, boom, it is back on.
+So it is got a proximity sensor built in.
+It is got an ambient light sensor built in, as well.
+We sense the ambient lighting conditions and adjust the brightness of the display to match the ambient lighting conditions.
+Again, better user experience, saves power.
+And the third thing that we have got is an accelerometer, so that we can tell when you switch from portrait to landscape.
+It is pretty cool.
+Show it to you in a minute.
+So three advanced sensors built in.
+
+So, let us go ahead and turn it on.
+This is the size of it.
+It fits beautifully in the palm of your hand.
+So, an iPod, a phone, and an internet communicator.
+Let us start with the iPod.
+You can touch your music.
+You can just touch your music, it is so cool.
+You have got a widescreen video.
+You can find your music even faster.
+Gorgeous album art on this display. Built-in speaker, and, why not?
+Cover flow.
+First time ever on an iPod.
+So rather than talk about this some more, let me show it to you.
+
+Alrighty.
+Now, I have got some special iPhones up here, they have got a little special board in them so I can get some digital video out, and I have got a little cord here which goes up to these projectors, so I have got some great images, and you get to see what it really looks like.
+So, let me, I have got a camera here so you can see what I am doing with my finger for a few seconds.
+And let me go ahead and get that picture within picture up.
+I am going to go ahead and just push the sleep wake button and there we go, right there.
+And to unlock the phone I just take my finger and slide it across.
+Want to see that again?
+We wanted something that you could not do by accident in your pocket.
+Just slide it across.
+Boom.
+And this is the home screen of iPhone right here.
+And so if I want to get in the iPod, I just go down to that lower right hand corner and push this icon right here, and boom, I am in the iPod.
+I want to get home, I push the home button right here, and I am home.
+Back in the iPod.
+Now, here I am you see five playlists across the bottom.
+Playlists, songs, videos and more.
+I am in artists right now.
+Well, how do I scroll through my lists of artists?
+How do I do this?
+I just take my finger, and I scroll.
+Is not that cool?
+A little rubber banding up when I run off the edge.
+
+And if I want to pick somebody, let us say I want to pick the Beatles, I just tap them, and here is the Beatles songs with their albums right here.
+If I want to play Sgt.
+Pepper is I just hit Sgt.
+Pepper is right there, and A Little Help From My Friends.
+Look at this gorgeous album artwork here.
+Of course, I have got a volume control.
+Now, I have got a little button up in the corner right here, you can see in the upper right-hand corner, I can hit that and flip the album art around.
+There is all the other songs back here.
+And I can play Lovely Rita if I want to.
+Flip back around.
+Very simple.
+Right, I can set some stars back here just by setting the arrows.
+That is a five star album.
+Is not that cool?
+Yeah, it is pretty nice.
+
+Now, let me show you something else.
+I just take my unit here, and I turn it landscape mode, oh, look what happens!
+I am in cover flow.
+Let us go into Dylan here, let us play Like a Rolling Stone.
+I just thumb through, just thumb through my albums.
+It is real easy.
+Anytime I find something I like, I just turn it around, and play something.
+It is that easy.
+It is that simple.
+Is not that great?
+Alright.
+I could play with this for a long time.
+Again, I have got playlists here.
+I can go into my playlists.
+I have got artists.
+I have got songs.
+I have got more over here.
+I have got albums.
+I have got a great album view again that shows all my album artwork if I want.
+And I have also got audio books and compilations and things like that.
+I have also got videos here.
+So I push videos and I have got a video podcast loaded on, and a music video.
+And I have got a TV show and a movie, and I had just like to show you the TV show here.
+This is an episode from The Office.
+All videos we look at in landscape.
+
+We have touch controls on here, of course.
+Is not that awesome?
+Is not that awesome?
+
+Now I want to show you a movie playing.
+Let us play Pirates of the Caribbean, the second one.
+Great movie, by the way.
+
+Now this is a widescreen movie so I just double-tap and I can see the whole thing here, or I can fill up the screen, whichever I like.
+And again, I have got on-screen controls here.
+Is not this cool? So we can be watching feature-length movies just like this.
+Alrighty.
+So that is the iPod.
+Pretty cool, huh?
+We have just started.
+So again, touch your music to scroll through your songs, scroll through your playlists.
+It is incredible.
+Widescreen video like you have never seen on a portable device, 160 pixels per inch, gorgeous screen quality, gorgeous album art, and cover flow.
+It is the best iPod we have ever made.
+Again, some of the screen shots.
+It is unbelievable.
+Here is some album art I just put up, so you can see what it looks like.
+Just, no matter what you like, it looks pretty doggone gorgeous.
+And of course, cover flow and video, with on-screen controls.
+
+You know, I was showing this to somebody I was giving a demo to somebody a while ago, who had never seen this before, inside Apple.
+And I finished the demo, and I said what do you think.
+They told me this, they said, You had me at scrolling.
+So, the iPhone with the most amazing iPod ever.
+You can now touch your music.
+
+So that is the iPod.
+Now, let us take a look at a revolutionary phone.
+We want to reinvent the phone.
+Now, what is the killer app?
+The killer app is making calls!
+It is amazing, it is amazing how hard it is to make calls on most phones.
+Most people actually dial them every time.
+Most people do not have very many numbers in their address book they use their recents as their address book.
+Right?
+How many of you do that?
+I bet more than a few.
+So, we want to let you use contacts like never before.
+You can synch your iPhone with your PC or Mac and bring down all your contacts right into your phone.
+So you have got everybody numbers with you at all times.
+We have something that is going to revolutionize voice mail.
+We call it visual voice mail.
+Would not it be great if you had six voice mails if you did not have to listen to five of them first before you wanted to listen to the sixth?
+Would not that be great if you had random access voice mail?
+Well, we have got it.
+Just like e-mail you can go directly to the voice mails that interest you.
+Excellent audio quality.
+iPhone is a quad-band, GSM plus Edge phone.
+We have decided to go with the most popular international standard, which is GSM.
+We are on that bandwagon, headed on that roadmap, and plan to make 3G phones and all sorts of amazing things in the future.
+So, quad-band GSM plus edge, and of course we have wi-fi and Bluetooth 2.0 EDR built in, as well.
+So this is what it looks like when you get a call.
+This is what it sounds like.
+It is one of our ring tones, you can pick of course.
+
+So, I want to show you four things.
+I want to show you the phone app, photos, got a calendar, and SMS messaging.
+The kind of things you would find on a typical phone, but in a very untypical way.
+So let us go ahead and take a look.
+So let us go to our phone first.
+You see that icon in the lower left-hand corner, the phone?
+I just push it right here, and boom, I am in the phone.
+And I have got five buttons across the bottom: favorites, recents, contacts, keypad and voice mail.
+I am in contacts, right now, again.
+How do I move around my contacts?
+I just scroll through them.
+And so, let us say I want to make a call to Jony Ive.
+I can just push here, and I see Jony Ive context, with all his information: his three phone numbers, his e-mail, whatever else, his address, whatever else I have got.
+It is all in one place.
+And if I want to call Jony, all I do is push his phone number.
+I will call his mobile number right now.
+And now, we are calling Jony here.
+
+Hey, Jony, how you doing?
+Well, it has been 2.5 years, and I cannot tell you how thrilled I am to make the first public phone call with iPhone.
+I remember when we first started working on this, and it is just unbelievable.
+Woah, what is this?
+I have got another call coming in.
+Jony, can I put you on hold for a minute?
+So I put Jony on hold and
+
+Sorry Phil!
+As you can see, it has put Jony on hold, and Phil, I can just touch Jony and bring Jony back.
+Hey, Jony are you there?
+Hey listen, Phil called.
+Do you mind if I conference him in?
+
+You can see the button has changed to merge calls right there in the middle, so I just push that right here, and now, I have created a conference call.
+Jony, you there?
+Phil, you there?
+
+So here we are, and listen I gotta get back to my keynote, so if I want to do that, I just touch this arrow right here, and I am going to go ahead and take Jony private here and put Phil on hold.
+Jony, do you have anything to say on the first phone call?
+
+It is not too shabby.
+You take care.
+And I end this call.
+Phil is on hold.
+I take him off of hold.
+Phil, thanks very much, I have got to get back to the keynote now.
+Alrighty.
+
+So, now I have also got a way to make a list of favorites here, from my most-often called numbers so I can just touch it once and dial the number.
+And I might want to add somebody to favorites, so let us say I want to add Phil Schiller, I just push that plus button in the upper right-hand corner right there, and up pop my favorites, and I can just go to S is here and there is Phil, so Phil Schiller is right there.
+And I will put, let us say I want to put Phil work number, and it has added Phil, right there you see favorites.
+I can edit favorites by pushing the edit button in the left-hand corner, and I can move Phil up if I want to, maybe to the top.
+And let us see, Tony has changed his number I have got to update this anyway, so I am going to get rid of that and I can just remove Tony.
+Boom, there we go.
+It is that simple to edit these things.
+Very, very easy.
+I have got recents right here, which is all my recent phone calls.
+If I want to see the ones I have missed, which are in red, I can just go up and touch that button at the top, and boom, those are all the ones I have missed, and those are all the calls that I have placed or have gotten.
+If I want to dial the phone, if I am real last-century, I can push keypad here, and I can dial a call just with oops, called four, sorry.
+Wrong number.
+408-996-1010.
+And it formats the numbers and if I want to, I can just keep dialing, let us say it is a European number, and the numbers just keep getting smaller, real simple.
+Very simple to dial with the keypad.
+Now let me show you visual voice mail.
+This is so cool.
+This is a collaboration that we have done, which I will talk more about later, and it allows us to have random access voice mail.
+Go directly to the voice mails we want.
+So as an example, I come to my voice mail, and I say, oh, there is one by Al Gore.
+I want to hear that one.
+I just push it.
+
+Now, if I want to call Al back right now, I can just push that call back button.
+But I want to listen to one from Tim Cook that I have got here, so let me listen to Tim.
+
+Is not this awesome.
+And so I have got voice mail how I want to listen to it, when I want to listen to it, in any order I want to listen to it with visual voice mail.
+So that is a quick tour of the phone app.
+
+Now what I want to do is show you SMS texting.
+So I just go to that SMS icon in the upper-left-hand corner and push it.
+And I not only have SMS texting, but I have multiple sessions.
+So I can be carrying on conversations with people, and every time I get messages from them, I can be alerted to that, and go check it out. As an example here, I have got Eddie Q and I have been carrying on a conversation with Eddie, and I just tap this, and here is the conversation I have been carrying on right here.
+And if there is a new message it will tell me.
+And so there is a new message from Phil, and let us see the conversation was what.
+
+And I have got this little keyboard which was phenomenal.
+It does error prevention and correction.
+Not that I will not make some, I probably will.
+But it is actually really fast to type on.
+It is faster than all these little plastic keyboards on all these smart phones.
+So I can just say sounds great, see you there.
+And I can send that.
+And there it is.
+It is that simple.
+And when Phil messages me back, I will be alerted, I will see the dot, and I can just go pick up that conversation where it left off.
+If I want to send a message to Eddie or Scott, I just push this and send a message and go.
+It is so simple.
+So that is SMS messaging, and again, you have seen the keyboard, it is pretty awesome.
+We will come back to that a little later.
+
+And the third app I want to show you as part of the phone package is photos.
+You know, we have a two-megapixel camera built in, as I said.
+We also have the coolest photo management app ever, certainly on a mobile device, but I think maybe ever.
+And so here is our photos.
+I am going to go into our photo library, and this is our library and again, I can just scroll through photos here with my finger.
+Pretty cool.
+Let me go to photo album, I will pick Italy, and I just, let us start at the top.
+And to go through pictures, I just swipe them.
+I can just swipe through my photo library.
+There is one that is landscape.
+I can just turn my device and take a look at it.
+Pretty cool, huh?
+So I can even swipe when I am in landscape here.
+Is not this awesome?
+The other thing I can do is I can take any of these pictures and I can make them bigger.
+So let me go ahead and get the camera back up.
+I can take my fingers and I can, we call it the pinch, I can bring them closer together and move them further apart to make it bigger or smaller.
+So I can just move them further apart and stretch the image.
+Is not that cool?
+I can move it around, and is not that cool?
+And now what I can do is I can pick to make this my wallpaper.
+And of course, I could jigger it around then and just set the wallpaper, and now if I am back at home and I go to sleep, when I wake up from here on out, until I reset it, that is my wallpaper.
+Whenever I am making a call, that is what I am going to see.
+Boom.
+There we go.
+So photos, SMS and the phone app.
+That is part of our phone package for iPhone.
+
+Get a call, again, just really great call management features, just scroll through contacts with your finger.
+All the information at your fingertips here.
+Favorites, last century, visual voice mail.
+Calendar, SMS texting, incredible photo app, the ability to just take any picture and make it your wallpaper.
+It is pretty unbelievable, and I think when you have a chance to get your hand on it, you will agree, we have reinvented the phone.
+OK.
+
+Now, I can zoom in by just pinching if I want to.
+Or I can just double click to zoom in, and I get just higher and higher resolution versions of the map.
+So let us go somewhere else here that I have got bookmarked.
+Let us go to the Washington Monument.
+And so here is Washington, D.C, and I could just double-tap and I am going in a little further here, just double-tapping in.
+And there is the Washington Monument there, and I will double-tap in again.
+But now I want to show you something else.
+Satellite images.
+So I just hit this button called satellite at the bottom.
+It is going to replace the map with satellite images, there we go.
+And I can just double-tap in, and double-tap in again.
+And let us double-tap in again.
+This is the Washington Monument.
+Look at this. I can see people down there.
+Whoops, there we go.
+Yep.
+Is not that incredible.
+Right on my phone!
+It is unbelievable.
+So let us go, I have got another one, the Eiffel Tower, which is very cool.
+I set this one to be, look at this, there is the Eiffel tower.
+There is people at the Eiffel Tower you can see.
+Look at that.
+Incredible.
+And here, one last one I have to show you, the Coliseum in Rome.
+So again, here we are in Rome.
+That is as far as we can go with the map, but we can go a little further with the satellite.
+There is the Coliseum.
+There is the Roman Coliseum.
+Satellite imagery, right on the phone.
+Look at that.
+That is the Coliseum.
+Unbelievable.
+Right on the phone.
+What do you think.
+Is not that incredible?
+
+All right, now I want to show you something incredible.
+I want to show you Safari running on a mobile device.
+So let us go to the Web, and here we are.
+I am going to load in, rather than apple.com here, a more universal site.
+I am going to load in the New York Times, it is kind of a slow site because it is got a lot of images, but here we are loading and we are loading over wi-fi right now.
+And rather than just give you a WAP version of the New York Times, rather than giving you this wrapped version all around, we are showing you the whole New York Times Web site, and there it is.
+Guess what I can do, I can just put this into landscape mode, and there it is right there.
+And I can scroll here if I want. Scroll up and down here.
+Still loading it in.
+There we go.
+Or I can just get back like this.
+Now, this is really great and I can see the whole page but of course I cannot read it.
+It is a little too small.
+So I can get in with my fingers and pinch it but we have an optimization here.
+I can just double-tap on anything and it automatically fills up the screen with it.
+And I can just scroll around like this and scroll over here and I can even make this text bigger if I want to, and there it is.
+Just double-tap again to get back to the whole page.
+Is not this cool?
+Look at this.
+There is the New York Times.
+And again, any article I want, boom, there we go.
+Boom.
+Unbelievable.
+Now, you can look at multiple Web pages as well.
+You can have multiple Web pages open.
+So I just push this button in the lower-right hand corner.
+Shrinks it down, and I can add a new page if I want.
+And I will go to Amazon here out of my bookmarks.
+So let us go to Amazon.
+And I love to go the DVD section of Amazon and see what DVDs are selling.
+I like it especially when Disney are in the top.
+And, so here is Amazon, and even before the whole page is loaded on, I am just going to double-tap on this, and I am going to say let us go to the DVD section here, and now it is doing that.
+And here we are.
+And there is a section over here in the right hand side, and these are top sellers, updated hourly.
+Oh look, Al Inconvenient Truth is number one.
+Alright.
+And here is the other movies.
+Grays Anatomy, I like that.
+Pirates of the Caribbean.
+Fantastic.
+And so I have got this right here, and I can go back to the New York Times if I want.
+Zoom up to that picture so we can all see it.
+And again, is not this cool?
+Just go over there and get back to this one.
+I can get rid of it just by hitting the X.
+And there we go.
+Is not that incredible?
+Safari.
+You know, if you have ever used what is called a Web browser on a mobile phone, you will know how incredible this is.
+I hope you will never really know, because it is bad out there today, and this is a revolution of the first order, to really bring the real Internet to your phone.
+
+Anything else?
+Let me go check it out.
+I think I have got Fandango in my bookmarks here.
+Yes, I do. Let us go to Fandango, figure out what movies are playing.
+To go back to my call I just touch the top here, and I am back at my call, and I am just going to go ahead and end the call.
+What happens now?
+Back in my music.
+So, this is what it is like when you put it all together.
+iPhone.
+Today Apple is reinventing the phone.
