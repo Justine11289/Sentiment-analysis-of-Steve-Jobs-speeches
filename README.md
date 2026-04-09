@@ -19,7 +19,6 @@ Sentiment-analysis-of-Steve-Jobs-speeches/
 ├── Iphone.Rmd          # Core R Markdown source code for analysis
 ├── iPhone.html         # Automatically generated interactive analysis report
 ├── Report.pptx         # Project summary and results presentation
-├── Report.rar          # Compressed archive containing all project resources
 └── README.md           # Project documentation and guide
 ```
 ## Technical Stack
