@@ -1,5 +1,3 @@
-# Sentiment-analysis-of-Steve-Jobs-speeches
-
 # Sentiment Analysis of Steve Jobs' Speeches
 
 Quantifying the oratorical charisma of Steve Jobs, this text mining project employs R-based sentiment analysis to decode the emotional narrative of his most iconic presentations. By applying NRC and Bing lexicons alongside tidy data principles, the system transforms raw speech transcripts into actionable insights, visualizing the strategic use of positive and negative emotional arcs.
