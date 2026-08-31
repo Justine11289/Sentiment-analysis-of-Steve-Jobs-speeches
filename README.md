@@ -2,7 +2,7 @@
 
 Quantifying the oratorical charisma of Steve Jobs, this text mining project employs R-based sentiment analysis to decode the emotional narrative of his most iconic presentations. By applying NRC and Bing lexicons alongside tidy data principles, the system transforms raw speech transcripts into actionable insights, visualizing the strategic use of positive and negative emotional arcs.
 
-## ✨ Project Overview
+## Project Overview
 Steve Jobs was renowned for his powerful storytelling and ability to captivate audiences. This project analyzes specific speech texts—such as the **2007 iPhone launch event**—to measure the ratio of positive to negative emotions and visualize the narrative flow using data science techniques.
 
 ### Key Features
@@ -11,7 +11,7 @@ Steve Jobs was renowned for his powerful storytelling and ability to captivate a
 * **Sentiment Quantification**: Integrates sentiment lexicons (such as NRC or Bing) to transform text into measurable emotional indices, tracking the "highs and lows" of the speech.
 * **Interactive Reporting**: Provides comprehensive reports generated via R Markdown, allowing users to browse charts and statistics in a web-friendly format.
 
-## 📁 Project Structure
+## Project Structure
 The project is organized as follows:
 ```plaintext
 Sentiment-analysis-of-Steve-Jobs-speeches/
